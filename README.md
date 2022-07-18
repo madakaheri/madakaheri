@@ -9,7 +9,7 @@
 | [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
 ### アバターイラストについて
-水玉子先生のイラストです。いつかオリジナルに書き換えたい。  
+水玉子先生のイラストめっちゃ可愛くて好きです。いつかオリジナルで貼り直します。  
 [水玉子(ﾐｽﾞﾀﾏｺ) @mztmtzm](https://twitter.com/mztmtzm)
 
 ## ❤️ オープンソース・プロジェクト
