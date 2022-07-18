@@ -3,11 +3,23 @@
 ```
 🆕 2022.03.15 - 現在、大阪で新たな職場を探しています！プロジェクト持ちのため退社時期未定
 ```
+[Twitter](https://twitter.com/MadakaHeri)
+| [Web](https://madakaheri.github.io)
+| [Qiita](https://qiita.com/MadakaHeri)
+| [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
-Official Site: https://madakaheri.github.io  
-Qiita: https://qiita.com/MadakaHeri  
-YouTube（準備中）: https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA  
-Twitter: https://twitter.com/MadakaHeri  
+### アバターイラストについて
+水玉子先生のイラストです。いつかオリジナルに書き換えたい。  
+[水玉子(ﾐｽﾞﾀﾏｺ) @mztmtzm](https://twitter.com/mztmtzm)
+
+## ❤️ オープンソース・プロジェクト
+
+### [Laravel Expansions](https://github.com/laravel-expansions)
+Laravelの便利な拡張やサーバーレス化ツールを公開しています。
+
+### [Behemoth.js](https://github.com/behemothjs)
+Webアプリで利用するツールセットをまとめ（ようとし）ています。
+
 
 ## 📣 ごあいさつ
 
@@ -34,15 +46,6 @@ Amplify未対応の部分はSAMで開発します。
 
 馬鹿みたいな生き方した割にはマシな人生に落ち着いたんじゃないかなぁと、密かに思っています。  
 今後の夢は、、VTuberなりたい！（笑）
-
-## ❤️ オープンソース・プロジェクト
-
-### [Laravel Expansions](https://github.com/laravel-expansions)
-Laravelの便利な拡張やサーバーレス化ツールを公開しています。
-
-### [Behemoth.js](https://github.com/behemothjs)
-Webアプリで利用するツールセットをまとめ（ようとし）ています。
-
 
 ## 🌱 スキル
 
