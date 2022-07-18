@@ -5,14 +5,13 @@
 ```
 
 Official Site: https://madakaheri.github.io  
-Qiita（準備中）: https://qiita.com/MadakaHeri  
+Qiita: https://qiita.com/MadakaHeri  
 YouTube（準備中）: https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA  
 Twitter: https://twitter.com/MadakaHeri  
-マシュマロ: https://marshmallow-qa.com/madakaheri  
 
 ## 📣 ごあいさつ
 
-東京のとあるITスタートアップでフルスタックエンジニア兼開発リーダーをやっています！  
+東京のとあるITスタートアップでフルスタックエンジニアをやっています！  
 主にレビューや価格分析の分野でVue.jsでのアプリ開発からMySQLとLaravelまたはAWSでサーバーレスでバックエンド設計・開発をしています。  
 最近はAWS Amplify（Firebase的なもの）で組むのが簡単で工数少なく開発出来て楽ですね。  
 Amplify未対応の部分はSAMで開発します。  
