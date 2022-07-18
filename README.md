@@ -1,21 +1,23 @@
 # [@MadakaHeri](https://twitter.com/MadakaHeri)
 
-```
-🆕 2022.03.15 - 現在、大阪で新たな職場を探しています！プロジェクト持ちのため退社時期未定
-```
 [Twitter](https://twitter.com/MadakaHeri)
 | [Web](https://madakaheri.github.io)
 | [Qiita](https://qiita.com/MadakaHeri)
 | [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
+```
+🆕 2022.03.15 - 現在、大阪で新たな職場を探しています！ 複数プロジェクト持ちのため退社時期未定
+```
+
 ### アバターイラストについて
-水玉子先生のイラストめっちゃ可愛くて好きで使わせてもらってます。いつかオリジナルで貼り直します。  
+水玉子先生のイラストめっちゃ可愛くて好きで勝手に使わせてもらってます。  
+いつかオリジナルで描いて貼り直します。すみません。  
 [水玉子(ﾐｽﾞﾀﾏｺ) @mztmtzm](https://twitter.com/mztmtzm)
 
 ## ❤️ オープンソース・プロジェクト
 
 ### [Laravel Expansions](https://github.com/laravel-expansions)
-Laravelの便利な拡張やサーバーレス化ツールを公開しています。
+Laravelの便利な拡張やサーバーレス化ツールを公開しています。おすすめ！
 
 ### [Behemoth.js](https://github.com/behemothjs)
 Webアプリで利用するツールセットをまとめ（ようとし）ています。
@@ -29,8 +31,7 @@ Webアプリで利用するツールセットをまとめ（ようとし）て�
 Amplify未対応の部分はSAMで開発します。  
 ちなみに、AWSはいろいろ闇が深いです..（他社クラウド知らんけど）  
 
-サーバーレスのややこしい部分はハマるととんでもない労力を割くことになるので、出来るだけ基本に忠実に、無理せずシンプルな構成を心がけています。  
-チームメンバーがメンテできないシステムなんて負の遺産にしかならないですからね、、
+サーバーレスのややこしい部分はハマるととんでもない労力を割くことになるので、出来るだけ基本に忠実に、無理せずシンプルな構成を心がけています。チームメンバーがメンテできないシステムなんて負の遺産にしかならないですからね、、
 
 
 ## 👀プロフィール
@@ -50,7 +51,7 @@ Amplify未対応の部分はSAMで開発します。
 ## 🌱 スキル
 
 ### 🧑🏻‍💻 使用マシン
-- MacBookPro
+- MacBook Pro (15-inch, 2016) ← 不良品、やばい。
 
 ### 🖥 WEB系
 - HTML5 / CSS3
@@ -72,11 +73,10 @@ Amplify未対応の部分はSAMで開発します。
 
 ### 🎨 デザイン
 ＊ Adobe系は常駐するし謎フォルダ勝手に作るので捨てました。
-- Affinity Designer
-- Affinity Publisher
-- Affinity Photo
-- Fusion360（趣味）
-- カラーコーディネーター３級
+- **[基本] [Affinity (Designer/Photo/Publisher)](https://affinity.serif.com)**
+- **[設計] [Figma](https://www.figma.com)**
+- **[3D CAD] [Fusion360](https://www.autodesk.co.jp/products/fusion-360)**
+- **[色彩設計] カラーコーディネーター３級**
 
 <!---
 MadakaHeri/MadakaHeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
