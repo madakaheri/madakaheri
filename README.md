@@ -1,4 +1,4 @@
-# @MadakaHeri
+# [@MadakaHeri](https://twitter.com/MadakaHeri)
 
 ```
 🆕 2022.03.15 - 現在、大阪で新たな職場を探しています！プロジェクト持ちのため退社時期未定
@@ -9,7 +9,7 @@
 | [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
 ### アバターイラストについて
-水玉子先生のイラストめっちゃ可愛くて好きです。いつかオリジナルで貼り直します。  
+水玉子先生のイラストめっちゃ可愛くて好きで使わせてもらってます。いつかオリジナルで貼り直します。  
 [水玉子(ﾐｽﾞﾀﾏｺ) @mztmtzm](https://twitter.com/mztmtzm)
 
 ## ❤️ オープンソース・プロジェクト
