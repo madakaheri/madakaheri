@@ -46,18 +46,17 @@ Amplify未対応の部分はSAMで開発します。
 ## 🌱 スキル
 
 ### 🧑🏻‍💻 使用マシン
-- MacBook Pro (15-inch, 2016) ← 不良品、やばい。
+- MacBook Pro (M3)
 
 ### 🖥 WEB系
 - HTML5 / CSS3
 - SCSS（全体フレームワークとパーツスタイリング）
-- JavaScript
+- JavaScript(ESM)
 - PHP
 - MySQL
 - Laravel（API）
 - Vue.js（フロント）
-- jQuery（フロント必要時のみ）
-- node.js（Lambda）
+- AWS Amplify
 
 ### 🦄 AWS（主に使用したもの）
 - SAM CLI / Amplify CLI
@@ -72,8 +71,3 @@ Amplify未対応の部分はSAMで開発します。
 - **[設計] [Figma](https://www.figma.com)**
 - **[3D CAD] [Fusion360](https://www.autodesk.co.jp/products/fusion-360)**
 - **[色彩設計] カラーコーディネーター３級**
-
-<!---
-MadakaHeri/MadakaHeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
