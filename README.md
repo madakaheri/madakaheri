@@ -14,7 +14,7 @@
 ### [Laravel Expansions](https://github.com/laravel-expansions)
 Laravelの便利な拡張やサーバーレス化ツールを公開しています。おすすめ！
 
-### [Behemoth.js](https://github.com/behemothjs)
+### [Behemoth](https://github.com/behemothjs)
 Webアプリで利用するツールセットをまとめ（ようとし）ています。
 
 
