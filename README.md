@@ -15,7 +15,7 @@
 Laravelの便利な拡張やサーバーレス化ツールを公開しています。おすすめ！
 
 ### [Behemoth（ベヒーモス）](https://github.com/behemothjs)
-Webアプリで利用するツールセットをまとめ（ようとし）ています。
+Web制作エンジン。Tool Kit でも Framework でもなく、あえて「エンジン」。
 
 
 ## 📣 ごあいさつ
