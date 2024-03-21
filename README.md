@@ -11,11 +11,11 @@
 
 ## ❤️ オープンソース・プロジェクト
 
-### [Laravel Expansions](https://github.com/laravel-expansions)
-Laravelの便利な拡張やサーバーレス化ツールを公開しています。おすすめ！
-
 ### [Behemoth（ベヒーモス）](https://github.com/behemothjs)
 Web制作エンジン。Tool Kit でも Framework でもなく、あえて「エンジン」。
+
+### [Laravel Expansions](https://github.com/laravel-expansions)
+Laravelの便利な拡張やサーバーレス化ツールを公開しています。（最新版には対応できてません）
 
 
 ## 📣 ごあいさつ
