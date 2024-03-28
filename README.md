@@ -11,8 +11,11 @@
 
 ## ❤️ オープンソース・プロジェクト
 
+### [コーディングガイドライン](https://github.com/madakaheri/coding-guidelines)
+落ちてるガイドラインのリンクを送っても誰も真剣に守ってくれない。ガイドラインの組み上げ方から考えました。
+
 ### [Behemoth（ベヒーモス）](https://github.com/behemothjs)
-Web制作エンジン。Tool Kit でも Framework でもなく、あえて「エンジン」。
+Web制作エンジン。Tool Kit でも Framework でもなく、あえて「エンジン」
 
 ### [Laravel Expansions](https://github.com/laravel-expansions)
 Laravelの便利な拡張やサーバーレス化ツールを公開しています。（最新版には対応できてません）
