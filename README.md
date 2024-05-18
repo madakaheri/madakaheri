@@ -1,12 +1,13 @@
 # [@MadakaHeri](https://twitter.com/MadakaHeri)
 
 [Twitter](https://twitter.com/MadakaHeri)
-| [Web](https://madakaheri.github.io)
+| [Web](https://madakaheri.notion.site/07011b4f3fc64b1a9cf107e0aae1dc85?pvs=4)
+| [旧Web](https://madakaheri.github.io)
 | [Qiita](https://qiita.com/MadakaHeri)
 | [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
 ```
-🆕 2024.01.01 - 現在、大阪で新たな職場を探しています！ 複数プロジェクト持ちのため退社時期未定
+🆕 2024.05.19 WebをNotionに移行しました。
 ```
 
 ## ❤️ オープンソース・プロジェクト
