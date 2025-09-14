@@ -5,9 +5,15 @@
 | [Qiita](https://qiita.com/MadakaHeri)
 | [YouTube](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
-```
-🆕 2024.05.19 WebをNotionに移行しました。
-```
+## 📙 読みもの
+
+### [AWSレシピ集](https://github.com/madakaheri/aws-recipes) - 2025年9月〜
+
+AWS構築に関するレシピをまとめています。
+
+### [nodeレシピ集](https://github.com/madakaheri/node-recipes) - 2025年9月〜
+
+node.jsに関するレシピをまとめています。
 
 ## ❤️ オープンソース・プロジェクト
 
