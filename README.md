@@ -1,7 +1,6 @@
 # [@MadakaHeri](https://twitter.com/MadakaHeri)
 
 [X](https://x.com/MadakaHeri)
-| [Web](https://madakaheri.notion.site/07011b4f3fc64b1a9cf107e0aae1dc85?pvs=4)
 | [旧Web](https://madakaheri.github.io)
 | [Qiita](https://qiita.com/MadakaHeri)
 | [YouTube](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
