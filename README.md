@@ -1,19 +1,14 @@
 # [@MadakaHeri](https://twitter.com/MadakaHeri)
 
 [X](https://x.com/MadakaHeri)
-| [Trello](https://trello.com/b/2K0lAsZ7/マダカヘリのタイムライン)
 | [Web](https://madakaheri.notion.site/07011b4f3fc64b1a9cf107e0aae1dc85?pvs=4)
 | [旧Web](https://madakaheri.github.io)
 | [Qiita](https://qiita.com/MadakaHeri)
-| [YouTube（準備中）](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
+| [YouTube](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
 ```
 🆕 2024.05.19 WebをNotionに移行しました。
 ```
-
-## 🕐 タイムライン
-
-個人的なタイムラインを [Trello](https://trello.com/b/2K0lAsZ7/マダカヘリのタイムライン) に公開しています。
 
 ## ❤️ オープンソース・プロジェクト
 
