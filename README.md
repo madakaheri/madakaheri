@@ -1,19 +1,19 @@
 # [@MadakaHeri](https://twitter.com/MadakaHeri)
 
 [X](https://x.com/MadakaHeri)
-| [旧Web](https://madakaheri.github.io)
+| [Web](https://madakaheri.github.io)
 | [Qiita](https://qiita.com/MadakaHeri)
-| [YouTube](https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA)  
 
-## 📙 読みもの
 
-### [AWSレシピ集](https://github.com/madakaheri/aws-recipes) - 2025年9月〜
+## ⚙️ VSCode拡張
 
-AWS構築に関するレシピをまとめています。
+### [node test runner](https://marketplace.visualstudio.com/items?itemName=MadakaHeri.vsce-node-test-runner)
 
-### [nodeレシピ集](https://github.com/madakaheri/node-recipes) - 2025年9月〜
+こちらnodeの標準テストモジュールで作成されたテストファイルに、Runボタンを表示するVSCode拡張です！
+開発スピードが爆上がりするので是非みなさんお試しください！！
 
-node.jsに関するレシピをまとめています。
+![vsce-node-test-runner](https://github.com/user-attachments/assets/fdcb48f7-0427-4457-8dcf-7533d01d14ef)
+
 
 ## ❤️ オープンソース・プロジェクト
 
@@ -25,6 +25,17 @@ OSSをやるなら戦略性を持って資金集めしていかないと継続�
 ### [Laravel Expansions](https://github.com/laravel-expansions) - 2021年 〜 2022年
 Laravelの便利な拡張やサーバーレス化ツールを公開しています。  
 ＊ 資金が集まらず、最新版に対応していませんので非推奨
+
+
+## 📙 読みもの
+
+### [AWSレシピ集](https://github.com/madakaheri/aws-recipes) - 2025年9月〜
+
+AWS構築に関するレシピをまとめています。
+
+### [nodeレシピ集](https://github.com/madakaheri/node-recipes) - 2025年9月〜
+
+node.jsに関するレシピをまとめています。
 
 
 ## 📣 ごあいさつ
