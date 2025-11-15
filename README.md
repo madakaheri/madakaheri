@@ -7,7 +7,7 @@
 
 ## ⚙️ VSCode拡張
 
-### [node test runner](https://marketplace.visualstudio.com/items?itemName=MadakaHeri.vsce-node-test-runner)
+### [node test runner](https://marketplace.visualstudio.com/items?itemName=MadakaHeri.vsce-node-test-runner) - 2025年11月〜
 
 こちらnodeの標準テストモジュールで作成されたテストファイルに、Runボタンを表示するVSCode拡張です！
 開発スピードが爆上がりするので是非みなさんお試しください！！
