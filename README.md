@@ -1,10 +1,9 @@
 # [@MadakaHeri](https://x.com/MadakaHeri)
 
-「マダカ」が苗字。コードの耐用年数に重きをおくWebエンジニアです。
+コードの耐用年数に重きをおくWebエンジニアです。  
+複雑な構造のフレームワークは破壊変更が多いので嫌煙しています…
 
 [X](https://x.com/MadakaHeri)
-| [Web](https://madakaheri.github.io)
-| [Qiita](https://qiita.com/MadakaHeri)
 | [YouTube](https://www.youtube.com/@madakaheri)
 
 
