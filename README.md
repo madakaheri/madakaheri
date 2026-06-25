@@ -1,10 +1,13 @@
 # [@MadakaHeri](https://x.com/MadakaHeri)
 
-コードの耐用年数に重きをおくWebエンジニアです。  
-複雑な構造のフレームワークは破壊変更が多いので嫌煙しています…
-
 [X](https://x.com/MadakaHeri)
 | [YouTube](https://www.youtube.com/@madakaheri)
+
+コードの耐用年数に重きをおくWebエンジニア
+
+- 無駄に複雑な構造のフレームワークは破壊変更が多いので嫌煙しています。
+- TypeScriptもフレームワークに等しく変更があるためJS(ESM)+JSDocでの開発を好みます。
+- ルーティング程度の簡単なものは自作してパッケージ化します（事業をフレームワークに振り回されないため）
 
 
 ## 📣 ごあいさつ
