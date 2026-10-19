@@ -1,14 +1,20 @@
+<a href="https://www.youtube.com/watch?v=S9vCwe3vOI4">
+<img src="https://img.youtube.com/vi/S9vCwe3vOI4/maxresdefault.jpg" alt="eject 002 / 2026 AUTUMN">
+</a>
+
+<br/>
+
 # [@MadakaHeri](https://x.com/MadakaHeri)
 
 [X](https://x.com/MadakaHeri)
 | [YouTube](https://www.youtube.com/@madakaheri)
 
-コードの耐用年数に重きをおくWebエンジニア
+#### コードの耐用年数に重きをおくWebエンジニア
 
 - 無駄に複雑な構造のフレームワークは破壊変更が多いので嫌煙しています。
 - TypeScriptもフレームワークに等しく変更があるためJS(ESM)+JSDocでの開発を好みます。（TSを辞めるOSSも出てきている現状）
 - ルーティング程度の簡単なものは自作してパッケージ化します（事業をフレームワークに振り回されないため）
-
+- 業務外ではイラストレーターとしても活動しています。
 
 ## 📣 ごあいさつ
 
