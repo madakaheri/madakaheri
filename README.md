@@ -9,6 +9,9 @@
 - TypeScriptもフレームワークに等しく変更があるためJS(ESM)+JSDocでの開発を好みます。（TSを辞めるOSSも出てきている現状）
 - ルーティング程度の簡単なものは自作してパッケージ化します（事業をフレームワークに振り回されないため）
 
+<div>
+<iframe width="655" height="1165" src="https://www.youtube.com/embed/S9vCwe3vOI4" title="eject 002 / 2026 AUTUMN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div>
 
 ## 📣 ごあいさつ
 
