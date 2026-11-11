@@ -4,6 +4,8 @@
 | [YouTube](https://www.youtube.com/@madakaheri)
 | [face（制作中）](https://face.onface.io/madakaheri)
 
+> 私のコード確認には [DependaHub](https://github.com/dependahub) のプロジェクトをご覧ください。
+
 #### コードの耐用年数に重きをおくWebエンジニア
 
 - ２年目からリーダー（テックリード兼フルスタックエンジニア）をしてきました。リーダには負の遺産のリプレイス、事故で稼働停止したサービスの再リリースなど重い作業ばかり回ってきます…
